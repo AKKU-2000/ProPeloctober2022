@@ -1,2 +1,2 @@
 # Demo 2
- Demonstring the peopples 
+ Demonstring the people 
